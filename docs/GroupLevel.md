@@ -11,8 +11,8 @@ Name | Type | Description | Notes
 **superParent** | **Boolean** |  |  [optional]
 **levelName** | **String** |  |  [optional]
 **recursable** | **Boolean** |  |  [optional]
-**group** | **Boolean** |  |  [optional]
 **center** | **Boolean** |  |  [optional]
+**group** | **Boolean** |  |  [optional]
 **_new** | **Boolean** |  |  [optional]
 
 

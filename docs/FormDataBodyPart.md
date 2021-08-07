@@ -11,11 +11,11 @@ Name | Type | Description | Notes
 **mediaType** | [**BodyPartMediaType**](BodyPartMediaType.md) |  |  [optional]
 **parent** | [**MultiPart**](MultiPart.md) |  |  [optional]
 **providers** | [**Object**](.md) |  |  [optional]
-**name** | **String** |  |  [optional]
-**value** | **String** |  |  [optional]
-**simple** | **Boolean** |  |  [optional]
 **contentDisposition** | [**ContentDisposition**](ContentDisposition.md) |  |  [optional]
 **formDataContentDisposition** | [**FormDataContentDisposition**](FormDataContentDisposition.md) |  |  [optional]
+**simple** | **Boolean** |  |  [optional]
+**name** | **String** |  |  [optional]
+**value** | **String** |  |  [optional]
 **parameterizedHeaders** | [**Map&lt;String, List&lt;ParameterizedHeader&gt;&gt;**](List.md) |  |  [optional]
 
 

@@ -23,8 +23,8 @@ Name | Type | Description | Notes
 **inArrearsTolerance** | [**Money**](Money.md) |  |  [optional]
 **graceOnArrearsAgeing** | **Integer** |  |  [optional]
 **graceOnDueDate** | **Integer** |  |  [optional]
-**interestRecalculationEnabled** | **Boolean** |  |  [optional]
 **equalAmortization** | **Boolean** |  |  [optional]
+**interestRecalculationEnabled** | **Boolean** |  |  [optional]
 **arrearsTolerance** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
 
 
